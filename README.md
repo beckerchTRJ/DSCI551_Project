@@ -117,13 +117,13 @@ Click the thumbnail above to watch a walkthrough of the project's features.
 ## **Screenshots**
 
 ### Admin Interface
-![Admin GUI](docs/images/admin_gui.png)
+![Admin GUI](Project/docs/images/admin_gui.png)
 
 ### Customer Interface
-![Customer GUI](docs/images/customer_gui.png)
+![Customer GUI](Project/docs/images/customer_gui.png)
 
 ### Spatial Visualization
-![Spatial Map](docs/images/spatial_visualization.png)
+![Spatial Map](Project/docs/images/spatial_visualization.png)
 
 ---
 
