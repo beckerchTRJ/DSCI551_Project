@@ -58,13 +58,10 @@ project-root/
 │   │   └── customer_actions.py          # Customer-side business logic
 │   ├── main.py                          # Entry point for launching interfaces
 ├── templates/                           # HTML templates for Flask
-├── tests/                               # Unit tests
 ├── data/
 │   ├── tables_creation.txt              # SQL schemas for tables
-│   └── shapefiles/                      # Spatial data for map visualization
 ├── docs/
 │   ├── README.md                        # Documentation
-│   ├── setup_guide.md                   # Setup instructions
 │   ├── architecture_diagram.png         # Architecture design
 │   └── final_report.pdf                 # Project report
 ├── .gitignore                           # Ignore unnecessary files
@@ -106,13 +103,6 @@ project-root/
 
 ---
 
-## **Demo**
-
-[![YouTube Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
-Click the thumbnail above to watch a walkthrough of the project's features.
-
----
 
 ## **Screenshots**
 
